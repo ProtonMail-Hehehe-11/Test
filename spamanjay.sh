@@ -5,5 +5,5 @@ git add .
 git commit -m "fill bytes"
 git push --force origin --all
 printf "Ditunggu..."
-sleep 300
+sleep 10
 start spamanjay.sh
